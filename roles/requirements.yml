@@ -1,0 +1,4 @@
+---
+- src: "git@github.com:root-inf/ansible-role-simple.git"
+  scm: "git"
+  version: "master"
